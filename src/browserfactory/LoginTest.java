@@ -1,6 +1,5 @@
-package browsertest;
+package browserfactory;
 
-import org.junit.After;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
@@ -54,8 +53,8 @@ public class LoginTest extends BaseTest {
 
     }
 
-    @After
-    public void endTest(){
-        closeBrowser();
-    }
+//    @After
+//    public void endTest(){
+//        closeBrowser();
+//    }
 }

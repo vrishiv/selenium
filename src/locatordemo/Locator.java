@@ -1,6 +1,6 @@
 package locatordemo;
 
-import browsertest.BaseTest;
+import browserfactory.BaseTest;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;

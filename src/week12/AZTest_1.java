@@ -5,7 +5,7 @@ import org.junit.Before;
 import org.junit.Test;
 import org.openqa.selenium.By;
 
-public class AZTest_1 extends BaseAmazon {
+public class AZTest_1 extends BaseSite {
 
 
     String baseUrl = "https://www.amazon.co.uk/";

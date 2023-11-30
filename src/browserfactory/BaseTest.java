@@ -1,9 +1,10 @@
-package week12;
+package browserfactory;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class BaseAmazon {
+public class BaseTest {
+
     public static WebDriver driver;
 
     public void openBrowser( String baseUrl){

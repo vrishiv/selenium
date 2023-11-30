@@ -1,6 +1,6 @@
 package gridlist;
 
-import browsertest.BaseTest;
+import browserfactory.BaseTest;
 
 public class Grid_List extends BaseTest {
 
